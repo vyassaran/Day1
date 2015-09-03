@@ -3,7 +3,7 @@ header {
   padding-left: 20px;
 }
 
-p {
+article p {
   color: yellow;
   background-color: orange;
 }
@@ -18,3 +18,20 @@ header h1 {
   font-family: Verdana;
 }
 
+aside section h4 {
+  font-family: courier;
+}
+
+section p {
+  font-family: avenir;
+  color: #2562CC;
+}
+
+.blue {
+  font-family: garamond;
+  color: #E079B9;
+}
+
+aside section ul {
+  color: #FA0CDA;
+}
